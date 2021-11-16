@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@koa/cors": "^3.0.0",
-    "aws-sdk": "^2.571.0",
+    "aws-sdk": "^2.814.0",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
     "koa-helmet": "^5.2.0",
